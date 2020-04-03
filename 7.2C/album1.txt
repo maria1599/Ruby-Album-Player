@@ -1,0 +1,20 @@
+Ctrl
+SZA
+/images/ctrl2
+8
+Supermodel
+./music/01. Supermodel.mp3
+Go Gina
+./music/07. Go Gina.mp3
+Doves In The Wind
+./music/03. Doves In The Wind (Ft. Kendrick Lamar).mp3
+Prom
+./music/05. Prom.mp3
+Garden
+./music/08. Garden (Say It Like Dat).mp3
+Anything
+./music/10. Anything.mp3
+Broken Clocks
+./music/09. Broken Clocks.mp3
+20 Something
+./music/14. 20 Something.mp3
